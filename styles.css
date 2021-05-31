@@ -15,9 +15,9 @@
  */
 
 .ribbon {
-  width: 100%;
-  height: 40vh;
-  background-image: url(210605xxHaikixx-weddingquiz/images/cafe201261760.jpg);
+ /* width: 100%;
+  height: 40vh; */
+  background-image: url(images/cafe201261760.jpg);
   background-attachment: fixed;
   -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
