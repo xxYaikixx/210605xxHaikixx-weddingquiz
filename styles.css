@@ -18,7 +18,7 @@
   width: 100%;
   height: 40vh;
   background-image:url(images/cafe201261760.jpg)
-  background-attachiment:fixed;
+  background-attachment:fixed;
   -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
           flex-shrink: 0;
